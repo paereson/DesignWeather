@@ -4,13 +4,13 @@
 
 
 ## TODO / DONE:
-## - REST API by Alamofire
-## - Animations by Lottie
-## - Languages by SwiftGen
-## - Unit tests
-## - Realm database
-## - Firebase authentication/ crashlytics
-## - Refresh for iPhone 14 pro island
+- REST API by Alamofire
+- Animations by Lottie
+- Languages by SwiftGen
+- Unit tests
+- Realm database
+- Firebase authentication/ crashlytics
+- Refresh for iPhone 14 pro island
 
 ### UI is based on DesignCode project with my own modifications and addons.
 
