@@ -20,7 +20,8 @@ struct HomeView: View {
     
     
     var bottomSheetTranslationProrated: CGFloat {
-        (bottomSheetTranslation - BottomSheetPosition.middle.rawValue) / (BottomSheetPosition.top.rawValue - BottomSheetPosition.middle.rawValue)
+        let prorated = (bottomSheetTranslation - BottomSheetPosition.middle.rawValue) / (BottomSheetPosition.top.rawValue - BottomSheetPosition.middle.rawValue)
+        return prorated > 0 ? prorated : 0
     }
     
     var body: some View {
@@ -64,13 +65,15 @@ struct HomeView: View {
                     
                     // MARK: Bottom sheet
                     BottomSheetView(position: $bottomSheetPosition) {
+                        #warning("Delete")
 //                        Text(bottomSheetTranslationProrated.formatted())
                     } content: {
                         ForecastView(bottomSheetTranslationProrated: bottomSheetTranslationProrated)
                     }
                     .onBottomSheetDrag { translation in
+                        
                         bottomSheetTranslation = translation / screenHeight
-
+                        
                         withAnimation {
                             hasDragged = bottomSheetPosition == .top ? true : false
                         }

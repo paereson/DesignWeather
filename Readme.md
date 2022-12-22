@@ -1,9 +1,10 @@
 #  Design Weather- SwiftUI App
 
-## Personal app to develop skills of coding and learn new features/ frameworks
+### Personal app to develop skills of coding and learn new features/ frameworks
 
 
 ## TODO / DONE:
+- Layout
 - REST API by Alamofire
 - Animations by Lottie
 - Languages by SwiftGen
