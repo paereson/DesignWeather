@@ -11,16 +11,23 @@
 //   let weatherModel = try? newJSONDecoder().decode(WeatherModel.self, from: jsonData)
 
 import Foundation
+import SwiftUI
 
 struct WeatherModel: Codable {
     var list: [List]
     var city: City
 }
 
-struct List: Codable {
+struct List: Codable, Identifiable {
+    var id: UUID { UUID() }
     var dt: Int
     var main: Main
     var weather: [Weather]
+    let pop: Double
+    
+    var date: Date {
+        return Date(timeIntervalSince1970: TimeInterval(dt))
+    }
 }
 
 struct Main: Codable {
@@ -30,6 +37,27 @@ struct Main: Codable {
 struct Weather: Codable {
     var id: Int
     var main, description: String
+    
+    var getImage: String {
+        switch id {
+        case 200...232:
+            return "cloud.bolt"
+        case 300...321:
+            return "cloud.drizzle"
+        case 500...531:
+            return "cloud.rain"
+        case 600...622:
+            return "cloud.snow"
+        case 701...781:
+            return "cloud.fog"
+        case 800:
+            return "sun.max"
+        case 801...804:
+            return "cloud.bolt"
+        default:
+            return "cloud"
+        }
+    }
 }
 
 struct City: Codable {

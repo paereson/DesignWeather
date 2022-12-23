@@ -19,8 +19,6 @@ struct HomeView: View {
     @State var bottomSheetTranslation: CGFloat = BottomSheetPosition.middle.rawValue
     @State var hasDragged: Bool = false
     
-    
-    
     @ObservedObject var viewModel: HomeViewModel = HomeViewModel()
     private var cancellables: Set<AnyCancellable> = []
     
@@ -73,7 +71,7 @@ struct HomeView: View {
                     BottomSheetView(position: $bottomSheetPosition) {
                         
                     } content: {
-                        ForecastView(bottomSheetTranslationProrated: bottomSheetTranslationProrated)
+                        ForecastView(bottomSheetTranslationProrated: bottomSheetTranslationProrated, weather: viewModel.weather)
                     }
                     .onBottomSheetDrag { translation in
                         

@@ -6,7 +6,7 @@
 ## TODO / DONE:
 - Layout ✅
 - REST API by Alamofire ✅
-- Animations by Lottie
+- Animations by Lottie ✅
 - Languages by SwiftGen
 - Unit tests
 - Realm database

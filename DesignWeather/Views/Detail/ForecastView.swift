@@ -10,6 +10,7 @@ import SwiftUI
 struct ForecastView: View {
     var bottomSheetTranslationProrated: CGFloat = 1
     @State private var selection = 0
+    var weather: WeatherModel?
     
     var body: some View {    
         ScrollView {
@@ -18,24 +19,28 @@ struct ForecastView: View {
                 DesignSegmentedController(selection: $selection)
                 
                 // MARK: Forecast Card
-                ScrollView(.horizontal, showsIndicators: false) {
-                    HStack(spacing: 12){
-                        if selection == 0 {
-                            ForEach(Forecast.hourly) { forecast in
-                                ForecastCard(forecast: forecast, forecastPeriod: .hourly)
+                if let weather = weather {
+                    ScrollView(.horizontal, showsIndicators: false) {
+                        HStack(spacing: 12){
+                            if selection == 0 {
+                                ForEach(weather.list[0...8]) { forecast in
+                                    ForecastCard(forecast: Forecast.hourly.first!, weatherList: forecast, forecastPeriod: .hourly)
+                                }
+                                .transition(.offset(x: -430))
+                            } else {
+                                ForEach(weather.list) { forecast in
+                                    ForecastCard(forecast: Forecast.daily.first!, weatherList: forecast, forecastPeriod: .daily)
+                                }
+                                .transition(.offset(x: 430))
                             }
-                            .transition(.offset(x: -430))
-                        } else {
-                            ForEach(Forecast.daily) { forecast in
-                                ForecastCard(forecast: forecast, forecastPeriod: .daily)
-                            }
-                            .transition(.offset(x: 430))
                         }
                     }
+                    .padding(.vertical, 20)
                 }
-                .padding(.vertical, 20)
             }
             .padding(.horizontal, 20)
+            
+            Text(weather?.city.name ?? "nope")
             
         }
         .backgroundBlur(radius: 25, opague: true)

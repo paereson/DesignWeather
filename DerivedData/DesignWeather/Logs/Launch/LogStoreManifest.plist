@@ -6,100 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0C470154-A6D9-48B1-B876-CB52D809CEE2</key>
+		<key>0C7F2ED8-5A85-40F7-A508-638910EBC344</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3D89058C-2CE6-4048-AD7E-57956214D2B2</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_10-16-15-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693479775.23807096</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>0C470154-A6D9-48B1-B876-CB52D809CEE2</string>
-		</dict>
-		<key>25593FDA-F682-49EB-A60F-CB724CBB633E</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EB3B099A-538A-4B34-95D6-9EF1967B814E</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_10-22-15-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693480135.99721301</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>25593FDA-F682-49EB-A60F-CB724CBB633E</string>
-		</dict>
-		<key>293A44C0-1726-4F0C-8B74-3289D6310792</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F42F8A01-9894-4628-9C24-C939860D85B9</string>
+			<string>D4FC00FE-1C11-45B0-A14F-F6B51C5FC5C7</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -112,7 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_16-09-01-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-16-04-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -133,18 +43,18 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693500941.790833</real>
+			<real>693504964.41261804</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>293A44C0-1726-4F0C-8B74-3289D6310792</string>
+			<string>0C7F2ED8-5A85-40F7-A508-638910EBC344</string>
 		</dict>
-		<key>2E428A6E-26F6-429D-B195-2A279AD9629F</key>
+		<key>197E80B4-17EB-424F-AF32-D5CFF5ABAE18</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>481E07D4-0859-4637-8758-607C0D663B35</string>
+			<string>43F2AD83-0928-4C6E-BBDA-7C8DBF5F9355</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -157,97 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_16-00-01-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693500401.54860795</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>2E428A6E-26F6-429D-B195-2A279AD9629F</string>
-		</dict>
-		<key>3C189648-7001-4E0D-9297-B36286B5C295</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>75DED6B1-C839-440E-987D-994CC7C54B6E</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.22_16-11-41-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693414701.54064</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>3C189648-7001-4E0D-9297-B36286B5C295</string>
-		</dict>
-		<key>4F42AEA5-0CFA-43E6-8681-6164FA39AC87</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8E3924E2-72C2-40F9-B485-D3DDD5205F6C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_16-10-31-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_18-01-54-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -268,18 +88,18 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693501031.87445498</real>
+			<real>693507714.20602906</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>4F42AEA5-0CFA-43E6-8681-6164FA39AC87</string>
+			<string>197E80B4-17EB-424F-AF32-D5CFF5ABAE18</string>
 		</dict>
-		<key>61F4E88F-C61F-4FE4-BDB2-249021266ABB</key>
+		<key>2510DFBB-8E4D-4CEC-84FA-3D0B6B7EA541</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7FEBB791-68EB-4B62-A356-EA1527DB810B</string>
+			<string>904AB5D0-32BF-4672-BBED-2E9799C21B26</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -292,7 +112,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_16-01-32-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-23-28-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -313,22 +133,22 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693500492.29270506</real>
+			<real>693505408.91305804</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>61F4E88F-C61F-4FE4-BDB2-249021266ABB</string>
+			<string>2510DFBB-8E4D-4CEC-84FA-3D0B6B7EA541</string>
 		</dict>
-		<key>6A1FDB49-50C6-4C78-8853-119C9EC9AEF4</key>
+		<key>28A5043C-FC5A-4768-B939-044ACF3B02F9</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>4A7D13BD-E01C-4007-9ADA-1917625BDAD6</string>
+			<string>F59E1787-833E-417B-A12A-8C0429879826</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -337,7 +157,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_09-53-40-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-08-59-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -347,7 +167,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>DesignWeather project</string>
@@ -358,22 +178,22 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693478420.10382903</real>
+			<real>693504539.12749898</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>6A1FDB49-50C6-4C78-8853-119C9EC9AEF4</string>
+			<string>28A5043C-FC5A-4768-B939-044ACF3B02F9</string>
 		</dict>
-		<key>6A3956B4-F926-45AE-ACC2-686766AFE5FA</key>
+		<key>29BC1900-75AC-4D26-85A1-127D98A5F04C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>07813707-6868-4728-ABB5-69F6E7A5EB01</string>
+			<string>DC7AD296-E60B-4F04-A8A0-0CF913D24FD3</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -382,7 +202,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.22_16-10-00-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-32-58-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -392,7 +212,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>DesignWeather project</string>
@@ -403,22 +223,22 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693414600.24342203</real>
+			<real>693505978.79146397</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>6A3956B4-F926-45AE-ACC2-686766AFE5FA</string>
+			<string>29BC1900-75AC-4D26-85A1-127D98A5F04C</string>
 		</dict>
-		<key>77A9F7E0-07EA-4163-8FBD-C506996D24D8</key>
+		<key>29C8F80E-BB3B-4601-92FF-3D078D42D7AE</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E20072CB-6ABB-4417-BE78-59C2BD4517A4</string>
+			<string>BE72B316-F95A-4838-A9DD-69594C243D2A</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -427,7 +247,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_10-15-38-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-26-57-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -437,7 +257,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>DesignWeather project</string>
@@ -448,18 +268,18 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693479738.86273003</real>
+			<real>693505617.048792</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>77A9F7E0-07EA-4163-8FBD-C506996D24D8</string>
+			<string>29C8F80E-BB3B-4601-92FF-3D078D42D7AE</string>
 		</dict>
-		<key>84EFDA74-B4A9-4E94-8A3D-DFA4793D8A0A</key>
+		<key>2EF49BD7-ECC7-46A4-B2E6-E2122F62E32E</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>CC6BB952-1831-4A01-917B-B36DE58033C4</string>
+			<string>45F4E596-AC5B-4678-A9E2-3C353787D8A3</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -472,7 +292,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_10-13-21-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-49-43-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -493,18 +313,468 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693479601.48776805</real>
+			<real>693506983.10564804</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>84EFDA74-B4A9-4E94-8A3D-DFA4793D8A0A</string>
+			<string>2EF49BD7-ECC7-46A4-B2E6-E2122F62E32E</string>
 		</dict>
-		<key>877CF737-B9BC-4188-B48C-C7752A8BAC5C</key>
+		<key>35BD8EC6-846A-4455-A269-F36C82CDAFDE</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>5530E695-F0F7-493D-BC3E-350C13CDA969</string>
+			<string>5E4CC7F7-2262-443A-AEC5-7481E3DD2B6E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_18-00-34-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693507634.13879204</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>35BD8EC6-846A-4455-A269-F36C82CDAFDE</string>
+		</dict>
+		<key>3F850BBD-D97B-42BE-8EFE-5B9940DB551D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E2B2E377-77AE-4B69-A261-ED2BE40E053A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-30-05-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693505805.38188803</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>3F850BBD-D97B-42BE-8EFE-5B9940DB551D</string>
+		</dict>
+		<key>48E6F4E3-BC2B-4C6F-8968-0A28C265CB3B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BD7D4B67-9D4F-4F7C-BD81-5D8B2E026327</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_16-43-31-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693503011.44559503</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>48E6F4E3-BC2B-4C6F-8968-0A28C265CB3B</string>
+		</dict>
+		<key>55B0A410-CB3C-446E-B9C7-2C5054A90E69</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>01B9F96F-8935-42EF-B1FF-397F62EDB9A4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-25-21-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693505521.26990497</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>55B0A410-CB3C-446E-B9C7-2C5054A90E69</string>
+		</dict>
+		<key>5CEDDDAF-31A6-437C-BA94-9AEBD6331A35</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BDFBEDF7-E16A-4900-9625-BA03C0D38299</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-49-23-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693506963.422997</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>5CEDDDAF-31A6-437C-BA94-9AEBD6331A35</string>
+		</dict>
+		<key>63B5AD5A-6C06-4048-A4A7-AA3FE2B92674</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A756D8E9-1970-4FD1-9406-760CFB9A67DB</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-02-56-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693504176.74750495</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>63B5AD5A-6C06-4048-A4A7-AA3FE2B92674</string>
+		</dict>
+		<key>63BDB44B-A08B-406D-A60E-6060492996D2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>30E90694-8A5D-47B6-8194-5FE14D620D8A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-30-26-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693505826.60271096</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>63BDB44B-A08B-406D-A60E-6060492996D2</string>
+		</dict>
+		<key>71BA14EF-3581-4E51-8F1F-B5576715F2B9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7C9E3ECC-10C0-4809-A9F0-7A75388B5065</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-04-05-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693504245.19116795</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>71BA14EF-3581-4E51-8F1F-B5576715F2B9</string>
+		</dict>
+		<key>77B07070-CFE4-4DE5-B83D-574C410C7A1E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6A478AFD-EE6F-41FC-9886-4054187279D7</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-16-18-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693504978.13276899</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>77B07070-CFE4-4DE5-B83D-574C410C7A1E</string>
+		</dict>
+		<key>7A6EC0A3-2029-4E7C-9991-DEEE8A18008C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E17DC12C-F5A8-4A16-8FF6-A4ABA839C62E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-29-53-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693505793.12355101</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>7A6EC0A3-2029-4E7C-9991-DEEE8A18008C</string>
+		</dict>
+		<key>8F76A70D-DFD7-4523-AE4A-4423765AE5CC</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5504B6CD-915E-43A5-A5ED-9471031942F6</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -517,7 +787,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_16-08-41-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-01-27-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -538,18 +808,18 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693500921.54686797</real>
+			<real>693504087.49451196</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>877CF737-B9BC-4188-B48C-C7752A8BAC5C</string>
+			<string>8F76A70D-DFD7-4523-AE4A-4423765AE5CC</string>
 		</dict>
-		<key>9C5A3333-7E26-4C60-93EA-310634C880AE</key>
+		<key>976A8A71-06DB-43CC-B826-29D49CDB03EC</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>80B91A3C-F80C-4780-B88E-46E7E588C689</string>
+			<string>7438E119-DDAE-4FC4-A2E3-8179FA005E26</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -562,97 +832,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_16-03-28-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693500608.14029002</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>9C5A3333-7E26-4C60-93EA-310634C880AE</string>
-		</dict>
-		<key>AC37EC9B-EE19-4A8F-BCCA-6D5C65BA0D74</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>0376B922-4438-472E-AF56-2FB6AE7758FD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_09-59-14-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693478754.46879601</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>AC37EC9B-EE19-4A8F-BCCA-6D5C65BA0D74</string>
-		</dict>
-		<key>B8DD6CC3-7691-4C20-9875-91A2E3B347F8</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>1972DCE7-ACC4-4540-8249-8661352F8221</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.11.28_09-57-05-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-02-26-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -673,22 +853,22 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>691318625.94925106</real>
+			<real>693504146.12271595</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>B8DD6CC3-7691-4C20-9875-91A2E3B347F8</string>
+			<string>976A8A71-06DB-43CC-B826-29D49CDB03EC</string>
 		</dict>
-		<key>BE9DC75B-AF9A-45C0-B932-E61EB4A117E5</key>
+		<key>9FF3FFDE-6D4A-47F8-922E-F65FB251A5BC</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>576463CE-EDF7-4BB3-9E8A-4B7A8961B5A1</string>
+			<string>F44FEAB9-84AB-4F4D-9C83-41E2B4EDE0DF</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>E</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -697,7 +877,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_10-20-35-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-29-21-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -707,7 +887,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>DesignWeather project</string>
@@ -718,18 +898,18 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693480035.99723005</real>
+			<real>693505761.36450195</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>BE9DC75B-AF9A-45C0-B932-E61EB4A117E5</string>
+			<string>9FF3FFDE-6D4A-47F8-922E-F65FB251A5BC</string>
 		</dict>
-		<key>C1159090-C36C-47AF-AE57-14589FE44483</key>
+		<key>A29E9E73-53C7-47F1-8302-00B88A2A1413</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>90DD43C0-6C65-4344-8C75-769856E0F373</string>
+			<string>37F34296-0489-448B-9A24-8639B13CBE67</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -742,187 +922,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_16-04-40-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693500680.100425</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>C1159090-C36C-47AF-AE57-14589FE44483</string>
-		</dict>
-		<key>C45E29AD-CD64-4096-9A65-1219AA98C6CA</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>291AA29E-FBB7-4B56-A990-D5389F42B0FB</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_09-55-49-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693478549.187132</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>C45E29AD-CD64-4096-9A65-1219AA98C6CA</string>
-		</dict>
-		<key>D4E49BB9-2ACC-4A00-B296-203753504AD2</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>ACB31308-E455-4571-9A70-4ACFD4D26361</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.20_17-28-35-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693246515.50972605</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>D4E49BB9-2ACC-4A00-B296-203753504AD2</string>
-		</dict>
-		<key>D7E973AC-6955-4F43-B401-73FA943797B4</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>025609CC-2A8E-4FB8-9C07-6E6EA2F0E36B</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_10-14-14-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693479654.43926597</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>D7E973AC-6955-4F43-B401-73FA943797B4</string>
-		</dict>
-		<key>E8C5DBD9-BEF4-43FF-B2FC-847B7D0029AF</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>195055C1-206D-4E31-A3BD-CF8D61C4B790</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_15-39-04-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_17-10-52-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -943,63 +943,18 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693499144.21102297</real>
+			<real>693504652.27618396</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>E8C5DBD9-BEF4-43FF-B2FC-847B7D0029AF</string>
+			<string>A29E9E73-53C7-47F1-8302-00B88A2A1413</string>
 		</dict>
-		<key>ECA82AB6-E5F8-46AD-A056-66F364FBACA9</key>
+		<key>A51C56FB-3C09-43D6-B8FD-FEB8764D8758</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>5BC6752F-AA18-409A-958C-86D1E9E7DE4C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_10-16-47-+0100.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>DesignWeather project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>DesignWeather</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run DesignWeather</string>
-			<key>timeStartedRecording</key>
-			<real>693479807.64340997</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run DesignWeather</string>
-			<key>uniqueIdentifier</key>
-			<string>ECA82AB6-E5F8-46AD-A056-66F364FBACA9</string>
-		</dict>
-		<key>FE0B06F6-204D-4B82-BCE1-5E73B7A137AA</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>D0246648-2374-458A-83B8-A64FE39A7EE6</string>
+			<string>144E9791-5826-4D34-B203-7A4322FB6C61</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1012,7 +967,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-DesignWeather-2022.12.23_16-14-04-+0100.xcresult</string>
+			<string>Run-DesignWeather-2022.12.23_16-34-22-+0100.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -1033,13 +988,463 @@
 			<key>signature</key>
 			<string>Run DesignWeather</string>
 			<key>timeStartedRecording</key>
-			<real>693501244.50354898</real>
+			<real>693502462.14024699</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run DesignWeather</string>
 			<key>uniqueIdentifier</key>
-			<string>FE0B06F6-204D-4B82-BCE1-5E73B7A137AA</string>
+			<string>A51C56FB-3C09-43D6-B8FD-FEB8764D8758</string>
+		</dict>
+		<key>B51EC76D-6396-4FE2-A936-8E764974DA04</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>1159F415-4BDB-4D7C-B1D6-C64E101B598A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-32-15-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693505935.24863398</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>B51EC76D-6396-4FE2-A936-8E764974DA04</string>
+		</dict>
+		<key>CE2614E3-A545-442E-A00D-5290DC0B2E68</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>AF79C212-0694-44E0-B1EA-F106AE0945F0</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-05-38-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693504338.03793895</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>CE2614E3-A545-442E-A00D-5290DC0B2E68</string>
+		</dict>
+		<key>D94E685E-D6B8-4CBD-8328-5BA4E2EFCD22</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>AB0AB038-A520-4DCE-A231-A3C321B73646</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-27-11-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693505631.55676794</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>D94E685E-D6B8-4CBD-8328-5BA4E2EFCD22</string>
+		</dict>
+		<key>E0C276F6-1DD8-43EE-82D8-817F5151A982</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>3657A09E-364D-450D-B08C-2BE71DB789FC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-03-34-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693504214.28896105</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>E0C276F6-1DD8-43EE-82D8-817F5151A982</string>
+		</dict>
+		<key>EBFF0943-1729-4AEA-83A8-AEA43CB9486B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8553EEE0-3F29-47FA-B9BA-BD6A0ACC84E8</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-29-36-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693505776.35354197</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>EBFF0943-1729-4AEA-83A8-AEA43CB9486B</string>
+		</dict>
+		<key>ECBA0FB4-CA53-4C7F-B8F8-B28139D83408</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9624C2CF-D24F-4B3F-BDD4-4E584CDCC4F5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-12-00-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693504720.23466301</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>ECBA0FB4-CA53-4C7F-B8F8-B28139D83408</string>
+		</dict>
+		<key>EDE5325F-E792-48AA-82F7-185893CADB27</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5794EA42-8356-4833-914B-B2F170A79BFC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_16-52-57-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693503577.81921601</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>EDE5325F-E792-48AA-82F7-185893CADB27</string>
+		</dict>
+		<key>F1EA5203-AB89-42BB-9FE4-68E582D3BE6D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6616A24C-66A5-40BF-A999-0C5918A3AB63</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_16-52-42-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693503562.46869004</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>F1EA5203-AB89-42BB-9FE4-68E582D3BE6D</string>
+		</dict>
+		<key>F5A1C1AD-3337-4F56-8E5D-33B665264F3A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5CF8ED4B-41C5-4683-B10E-CA114655EAD4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-30-16-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693505816.34382105</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>F5A1C1AD-3337-4F56-8E5D-33B665264F3A</string>
+		</dict>
+		<key>FEBA9426-E03F-47FD-BD69-5899ADDE8958</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9CC5F737-FB97-4061-97B8-9650FE048350</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-DesignWeather-2022.12.23_17-04-33-+0100.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693504273.13036597</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>FEBA9426-E03F-47FD-BD69-5899ADDE8958</string>
 		</dict>
 	</dict>
 </dict>

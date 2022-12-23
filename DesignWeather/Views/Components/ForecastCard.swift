@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ForecastCard: View {
     var forecast: Forecast
+    var weatherList: List?
     var forecastPeriod: ForecastPeriod
     var isActive: Bool {
         if forecastPeriod == .hourly {
@@ -33,30 +34,35 @@ struct ForecastCard: View {
                 .innerShadow(shape: RoundedRectangle(cornerRadius: 30), color: .white.opacity(0.25), lineWidth: 1, offsetX: 1, offsetY: 1, blur: 0, blendMode: .overlay)
             
             // MARK: Content
-            VStack(spacing: 16) {
-                // MARK: Forecast Date
-                Text(forecast.date, format: forecastPeriod == .hourly ? .dateTime.hour() : .dateTime.weekday())
-                    .font(.subheadline.weight(.semibold))
-                
-                VStack(spacing: -4) {
-                    // MARK: Forecast small icon
-                    Image("\(forecast.icon) small")
+            if let weatherList = weatherList {
+                VStack(spacing: 16) {
+                    // MARK: Forecast Date
+                    Text(weatherList.date, format: forecastPeriod == .hourly ? .dateTime.hour() : .dateTime.weekday())
+                        .font(.subheadline.weight(.semibold))
+                        .scaledToFill()
                     
-                    // MARK: Forecast Probablity
-                    Text(forecast.probability, format: .percent)
-                        .font(.footnote.weight(.semibold))
-                        .foregroundColor(Color.probabilityText)
-                        .opacity(forecast.probability > 0 ? 1 : 0)
+                    VStack(spacing: -4) {
+                        // MARK: Forecast small icon
+//                        Image("\(forecast.icon) small")
+                        LottieView(lottieFile: weatherList.weather.first?.getImage ?? "")
+                        
+                        // MARK: Forecast Probablity
+                        let probability = weatherList.pop
+                        Text(round(probability / 0.05) * 0.05, format: .percent)
+                            .font(.footnote.weight(.semibold))
+                            .foregroundColor(Color.probabilityText)
+                            .opacity(probability > 0 ? 1 : 0)
+                    }
+                    .frame(height: 42)
+                    
+                    // MARK: Temperature
+                    Text("\(Int(weatherList.main.temp))°")
+                        .font(.title3)
                 }
-                .frame(height: 42)
-                
-                // MARK: Temperature
-                Text("\(forecast.temperature)°")
-                    .font(.title3)
+                .padding(.horizontal, 8)
+                .padding(.vertical, 16)
+                .frame(width: 60, height: 146)
             }
-            .padding(.horizontal, 8)
-            .padding(.vertical, 16)
-            .frame(width: 60, height: 146)
         }
     }
 }
