@@ -6,6 +6,108 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0087840D-2E4C-4657-8DF8-F4B1BE5F736A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0087840D-2E4C-4657-8DF8-F4B1BE5F736A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500033.548118</real>
+			<key>timeStoppedRecording</key>
+			<real>693500034.25081098</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>0087840D-2E4C-4657-8DF8-F4B1BE5F736A</string>
+		</dict>
+		<key>025609CC-2A8E-4FB8-9C07-6E6EA2F0E36B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>025609CC-2A8E-4FB8-9C07-6E6EA2F0E36B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693479654.43947804</real>
+			<key>timeStoppedRecording</key>
+			<real>693479656.10443604</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>025609CC-2A8E-4FB8-9C07-6E6EA2F0E36B</string>
+		</dict>
+		<key>0376B922-4438-472E-AF56-2FB6AE7758FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0376B922-4438-472E-AF56-2FB6AE7758FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478754.46901703</real>
+			<key>timeStoppedRecording</key>
+			<real>693478755.90023899</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>0376B922-4438-472E-AF56-2FB6AE7758FD</string>
+		</dict>
 		<key>07813707-6868-4728-ABB5-69F6E7A5EB01</key>
 		<dict>
 			<key>className</key>
@@ -40,6 +142,108 @@
 			<key>uniqueIdentifier</key>
 			<string>07813707-6868-4728-ABB5-69F6E7A5EB01</string>
 		</dict>
+		<key>0D849B7C-B088-46FA-A4C7-15998FEFA904</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D849B7C-B088-46FA-A4C7-15998FEFA904.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500330.14175701</real>
+			<key>timeStoppedRecording</key>
+			<real>693500330.85799897</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>0D849B7C-B088-46FA-A4C7-15998FEFA904</string>
+		</dict>
+		<key>10CC9B77-4DD1-419F-B8D9-B5EF597402B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>10CC9B77-4DD1-419F-B8D9-B5EF597402B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499880.67440701</real>
+			<key>timeStoppedRecording</key>
+			<real>693499881.42922401</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>10CC9B77-4DD1-419F-B8D9-B5EF597402B3</string>
+		</dict>
+		<key>12CF5D2C-17EE-40FF-BAA1-FA2C6F34C0B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12CF5D2C-17EE-40FF-BAA1-FA2C6F34C0B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500039.82318199</real>
+			<key>timeStoppedRecording</key>
+			<real>693500040.43969595</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>12CF5D2C-17EE-40FF-BAA1-FA2C6F34C0B8</string>
+		</dict>
 		<key>13FEB177-563D-41C1-8F43-B93E6BF18A20</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +277,74 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>13FEB177-563D-41C1-8F43-B93E6BF18A20</string>
+		</dict>
+		<key>1447DD49-56CE-4B2B-8B4D-F721B2C192B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1447DD49-56CE-4B2B-8B4D-F721B2C192B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500132.59350204</real>
+			<key>timeStoppedRecording</key>
+			<real>693500133.31696403</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>1447DD49-56CE-4B2B-8B4D-F721B2C192B2</string>
+		</dict>
+		<key>195055C1-206D-4E31-A3BD-CF8D61C4B790</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>195055C1-206D-4E31-A3BD-CF8D61C4B790.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499144.21123397</real>
+			<key>timeStoppedRecording</key>
+			<real>693499148.13315499</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>195055C1-206D-4E31-A3BD-CF8D61C4B790</string>
 		</dict>
 		<key>199D81BF-E6A0-4374-B4CB-C2A322AA2C77</key>
 		<dict>
@@ -312,6 +584,74 @@
 			<key>uniqueIdentifier</key>
 			<string>2802D0F9-10E7-4714-B9DB-FD73B5E1FA83</string>
 		</dict>
+		<key>28EEB650-EEDE-428B-ABBB-37D5C6CCE236</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28EEB650-EEDE-428B-ABBB-37D5C6CCE236.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499174.60111201</real>
+			<key>timeStoppedRecording</key>
+			<real>693499177.00603402</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>28EEB650-EEDE-428B-ABBB-37D5C6CCE236</string>
+		</dict>
+		<key>291AA29E-FBB7-4B56-A990-D5389F42B0FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>291AA29E-FBB7-4B56-A990-D5389F42B0FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478549.18733799</real>
+			<key>timeStoppedRecording</key>
+			<real>693478550.59662902</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>291AA29E-FBB7-4B56-A990-D5389F42B0FB</string>
+		</dict>
 		<key>29506A82-B925-41A2-BD80-F80887C31635</key>
 		<dict>
 			<key>className</key>
@@ -345,6 +685,40 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>29506A82-B925-41A2-BD80-F80887C31635</string>
+		</dict>
+		<key>2B9B78B2-9C3B-49B5-9026-CBC7CEDB0335</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2B9B78B2-9C3B-49B5-9026-CBC7CEDB0335.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499834.98412395</real>
+			<key>timeStoppedRecording</key>
+			<real>693499835.60290897</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>2B9B78B2-9C3B-49B5-9026-CBC7CEDB0335</string>
 		</dict>
 		<key>2CD2E0FC-168A-48AF-849F-E6F6AA3D8597</key>
 		<dict>
@@ -448,6 +822,74 @@
 			<key>uniqueIdentifier</key>
 			<string>308F3A57-F57C-4A73-9DB3-4DCEA504A402</string>
 		</dict>
+		<key>316B4CC9-5A6E-40AB-AC06-CACF92603312</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>316B4CC9-5A6E-40AB-AC06-CACF92603312.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500074.55070496</real>
+			<key>timeStoppedRecording</key>
+			<real>693500075.14695895</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>316B4CC9-5A6E-40AB-AC06-CACF92603312</string>
+		</dict>
+		<key>31E8E19F-8EEE-45D0-8A94-55A15B1209D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31E8E19F-8EEE-45D0-8A94-55A15B1209D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500384.25851798</real>
+			<key>timeStoppedRecording</key>
+			<real>693500385.18238604</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>31E8E19F-8EEE-45D0-8A94-55A15B1209D9</string>
+		</dict>
 		<key>38303430-4E1D-4045-9277-0D4E2D4DF7F5</key>
 		<dict>
 			<key>className</key>
@@ -515,6 +957,74 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>3B24C503-C8A8-4116-8570-EBB6F630EE5E</string>
+		</dict>
+		<key>3B64042E-38AB-4389-8237-150148A572D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B64042E-38AB-4389-8237-150148A572D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478277.60293198</real>
+			<key>timeStoppedRecording</key>
+			<real>693478278.46069705</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>3B64042E-38AB-4389-8237-150148A572D6</string>
+		</dict>
+		<key>3D89058C-2CE6-4048-AD7E-57956214D2B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3D89058C-2CE6-4048-AD7E-57956214D2B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693479775.23826396</real>
+			<key>timeStoppedRecording</key>
+			<real>693479776.615978</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>3D89058C-2CE6-4048-AD7E-57956214D2B2</string>
 		</dict>
 		<key>3F170DBC-551D-48BC-9562-C5A631CA91D3</key>
 		<dict>
@@ -652,6 +1162,40 @@
 			<key>uniqueIdentifier</key>
 			<string>41199F86-9006-4654-B49B-97F0A82CAF4C</string>
 		</dict>
+		<key>4188F5D8-B289-40EA-82B7-B0C0E3046016</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4188F5D8-B289-40EA-82B7-B0C0E3046016.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500137.97254896</real>
+			<key>timeStoppedRecording</key>
+			<real>693500138.46162605</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>4188F5D8-B289-40EA-82B7-B0C0E3046016</string>
+		</dict>
 		<key>4266048F-B38A-4331-8A36-10CEF085A962</key>
 		<dict>
 			<key>className</key>
@@ -685,6 +1229,40 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>4266048F-B38A-4331-8A36-10CEF085A962</string>
+		</dict>
+		<key>481E07D4-0859-4637-8758-607C0D663B35</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>481E07D4-0859-4637-8758-607C0D663B35.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500401.54882598</real>
+			<key>timeStoppedRecording</key>
+			<real>693500404.37090504</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>481E07D4-0859-4637-8758-607C0D663B35</string>
 		</dict>
 		<key>482BF7A3-E2A0-4D3A-962B-0C6606DB6E7C</key>
 		<dict>
@@ -720,6 +1298,176 @@
 			<key>uniqueIdentifier</key>
 			<string>482BF7A3-E2A0-4D3A-962B-0C6606DB6E7C</string>
 		</dict>
+		<key>49174DFF-9E55-40C3-AA99-BD3FFE714B45</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49174DFF-9E55-40C3-AA99-BD3FFE714B45.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478201.14107001</real>
+			<key>timeStoppedRecording</key>
+			<real>693478208.39836204</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>49174DFF-9E55-40C3-AA99-BD3FFE714B45</string>
+		</dict>
+		<key>4A7D13BD-E01C-4007-9ADA-1917625BDAD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A7D13BD-E01C-4007-9ADA-1917625BDAD6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478420.10405803</real>
+			<key>timeStoppedRecording</key>
+			<real>693478425.04623604</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>4A7D13BD-E01C-4007-9ADA-1917625BDAD6</string>
+		</dict>
+		<key>527A7848-8184-4B1B-B315-86D46A98D0A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>527A7848-8184-4B1B-B315-86D46A98D0A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693498594.88450694</real>
+			<key>timeStoppedRecording</key>
+			<real>693498596.58571804</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>527A7848-8184-4B1B-B315-86D46A98D0A4</string>
+		</dict>
+		<key>5530E695-F0F7-493D-BC3E-350C13CDA969</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5530E695-F0F7-493D-BC3E-350C13CDA969.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500921.54705906</real>
+			<key>timeStoppedRecording</key>
+			<real>693500923.00826299</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>5530E695-F0F7-493D-BC3E-350C13CDA969</string>
+		</dict>
+		<key>576463CE-EDF7-4BB3-9E8A-4B7A8961B5A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>576463CE-EDF7-4BB3-9E8A-4B7A8961B5A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693480035.99742496</real>
+			<key>timeStoppedRecording</key>
+			<real>693480037.48177505</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>576463CE-EDF7-4BB3-9E8A-4B7A8961B5A1</string>
+		</dict>
 		<key>5838E2B5-5A28-44E6-8D56-468D353AA796</key>
 		<dict>
 			<key>className</key>
@@ -753,6 +1501,40 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>5838E2B5-5A28-44E6-8D56-468D353AA796</string>
+		</dict>
+		<key>5BC6752F-AA18-409A-958C-86D1E9E7DE4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BC6752F-AA18-409A-958C-86D1E9E7DE4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693479807.64362705</real>
+			<key>timeStoppedRecording</key>
+			<real>693479808.98917103</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>5BC6752F-AA18-409A-958C-86D1E9E7DE4C</string>
 		</dict>
 		<key>5BE4401D-3594-4829-B72B-76CB36D19D35</key>
 		<dict>
@@ -822,6 +1604,142 @@
 			<key>uniqueIdentifier</key>
 			<string>60FE05B1-7A1E-425B-A77E-A40BFEBF846B</string>
 		</dict>
+		<key>68E477A4-D203-4F41-A54D-D40B70B4F2AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68E477A4-D203-4F41-A54D-D40B70B4F2AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499802.69889498</real>
+			<key>timeStoppedRecording</key>
+			<real>693499803.28322101</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>68E477A4-D203-4F41-A54D-D40B70B4F2AA</string>
+		</dict>
+		<key>69D74255-5873-4F53-AFA1-5B863B56B3F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>69D74255-5873-4F53-AFA1-5B863B56B3F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499886.670807</real>
+			<key>timeStoppedRecording</key>
+			<real>693499887.35791099</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>69D74255-5873-4F53-AFA1-5B863B56B3F9</string>
+		</dict>
+		<key>6A6604B3-6177-4BD6-BFE9-C7B5EC5D04DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A6604B3-6177-4BD6-BFE9-C7B5EC5D04DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499766.27060795</real>
+			<key>timeStoppedRecording</key>
+			<real>693499766.82987297</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>6A6604B3-6177-4BD6-BFE9-C7B5EC5D04DA</string>
+		</dict>
+		<key>6B51C32E-64FB-4271-9006-CF87E3D3358C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B51C32E-64FB-4271-9006-CF87E3D3358C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478408.72459495</real>
+			<key>timeStoppedRecording</key>
+			<real>693478410.18585503</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>6B51C32E-64FB-4271-9006-CF87E3D3358C</string>
+		</dict>
 		<key>6F9B4F20-2EBD-424D-8AB1-6597208BE482</key>
 		<dict>
 			<key>className</key>
@@ -856,6 +1774,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6F9B4F20-2EBD-424D-8AB1-6597208BE482</string>
 		</dict>
+		<key>70FBAD7B-39F9-43D3-98B5-D0054AA3FF83</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70FBAD7B-39F9-43D3-98B5-D0054AA3FF83.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499935.64763796</real>
+			<key>timeStoppedRecording</key>
+			<real>693499936.27374005</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>70FBAD7B-39F9-43D3-98B5-D0054AA3FF83</string>
+		</dict>
 		<key>75DED6B1-C839-440E-987D-994CC7C54B6E</key>
 		<dict>
 			<key>className</key>
@@ -889,6 +1841,176 @@
 			<string>Build DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>75DED6B1-C839-440E-987D-994CC7C54B6E</string>
+		</dict>
+		<key>7C478868-4806-49D4-A5AF-EE1D2A82A4A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C478868-4806-49D4-A5AF-EE1D2A82A4A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500370.67985702</real>
+			<key>timeStoppedRecording</key>
+			<real>693500371.37786305</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>7C478868-4806-49D4-A5AF-EE1D2A82A4A1</string>
+		</dict>
+		<key>7CAEF484-A811-41B7-9B85-DE414B90F10F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7CAEF484-A811-41B7-9B85-DE414B90F10F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693498744.67881703</real>
+			<key>timeStoppedRecording</key>
+			<real>693498746.61733401</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>7CAEF484-A811-41B7-9B85-DE414B90F10F</string>
+		</dict>
+		<key>7FEBB791-68EB-4B62-A356-EA1527DB810B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FEBB791-68EB-4B62-A356-EA1527DB810B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500492.29283702</real>
+			<key>timeStoppedRecording</key>
+			<real>693500493.82789695</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>7FEBB791-68EB-4B62-A356-EA1527DB810B</string>
+		</dict>
+		<key>80B91A3C-F80C-4780-B88E-46E7E588C689</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80B91A3C-F80C-4780-B88E-46E7E588C689.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500608.140504</real>
+			<key>timeStoppedRecording</key>
+			<real>693500609.90330696</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>80B91A3C-F80C-4780-B88E-46E7E588C689</string>
+		</dict>
+		<key>814A133C-B7B1-4776-B778-8AA151DE146A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>814A133C-B7B1-4776-B778-8AA151DE146A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500313.83610904</real>
+			<key>timeStoppedRecording</key>
+			<real>693500314.45474195</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>814A133C-B7B1-4776-B778-8AA151DE146A</string>
 		</dict>
 		<key>8229E1DC-F4B0-42F6-B8E9-C8D6AEDF504B</key>
 		<dict>
@@ -992,6 +2114,40 @@
 			<key>uniqueIdentifier</key>
 			<string>87977E9F-ADFB-43C8-B00B-A89973AEA85B</string>
 		</dict>
+		<key>887E6CD0-F534-49C8-82AC-06469128CA2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>887E6CD0-F534-49C8-82AC-06469128CA2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693498973.21986306</real>
+			<key>timeStoppedRecording</key>
+			<real>693498975.31670296</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>887E6CD0-F534-49C8-82AC-06469128CA2E</string>
+		</dict>
 		<key>89E81091-7054-4B0E-B38E-BD9366FE1266</key>
 		<dict>
 			<key>className</key>
@@ -1025,6 +2181,74 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>89E81091-7054-4B0E-B38E-BD9366FE1266</string>
+		</dict>
+		<key>8C0EDB31-E033-4739-AD6F-A4EFE00D8F97</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8C0EDB31-E033-4739-AD6F-A4EFE00D8F97.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499942.53379905</real>
+			<key>timeStoppedRecording</key>
+			<real>693499943.20365405</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>8C0EDB31-E033-4739-AD6F-A4EFE00D8F97</string>
+		</dict>
+		<key>8E3924E2-72C2-40F9-B485-D3DDD5205F6C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E3924E2-72C2-40F9-B485-D3DDD5205F6C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693501031.87471294</real>
+			<key>timeStoppedRecording</key>
+			<real>693501033.68408501</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>8E3924E2-72C2-40F9-B485-D3DDD5205F6C</string>
 		</dict>
 		<key>8ED0BF4B-2969-4153-9F88-B9500ABD3395</key>
 		<dict>
@@ -1094,6 +2318,40 @@
 			<key>uniqueIdentifier</key>
 			<string>8FC61DBA-9F72-406A-902E-BA11C71B4D30</string>
 		</dict>
+		<key>90DD43C0-6C65-4344-8C75-769856E0F373</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90DD43C0-6C65-4344-8C75-769856E0F373.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500680.10059798</real>
+			<key>timeStoppedRecording</key>
+			<real>693500681.79467702</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>90DD43C0-6C65-4344-8C75-769856E0F373</string>
+		</dict>
 		<key>918AD24F-9EC4-4BC6-9768-77238F9D6A19</key>
 		<dict>
 			<key>className</key>
@@ -1127,6 +2385,108 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>918AD24F-9EC4-4BC6-9768-77238F9D6A19</string>
+		</dict>
+		<key>92B6CDB0-72CF-4945-84A9-E86E404DC35E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92B6CDB0-72CF-4945-84A9-E86E404DC35E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500288.79996598</real>
+			<key>timeStoppedRecording</key>
+			<real>693500289.461586</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>92B6CDB0-72CF-4945-84A9-E86E404DC35E</string>
+		</dict>
+		<key>94788A46-0D63-4EAC-A451-57E60B8D37A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94788A46-0D63-4EAC-A451-57E60B8D37A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499796.80628395</real>
+			<key>timeStoppedRecording</key>
+			<real>693499797.38767898</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>94788A46-0D63-4EAC-A451-57E60B8D37A8</string>
+		</dict>
+		<key>9536FF78-F8C4-4A35-A00B-0D71770EC663</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9536FF78-F8C4-4A35-A00B-0D71770EC663.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693498558.13057005</real>
+			<key>timeStoppedRecording</key>
+			<real>693498560.70649695</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>9536FF78-F8C4-4A35-A00B-0D71770EC663</string>
 		</dict>
 		<key>96CBE4C1-189D-40B4-85A4-A15F40EB8FF6</key>
 		<dict>
@@ -1332,6 +2692,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A0F6F385-593A-4B56-B822-412B10A499A0</string>
 		</dict>
+		<key>A7331963-F27B-4232-8AFD-A8075027AAE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A7331963-F27B-4232-8AFD-A8075027AAE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478200.88971698</real>
+			<key>timeStoppedRecording</key>
+			<real>693478208.35264206</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>A7331963-F27B-4232-8AFD-A8075027AAE8</string>
+		</dict>
 		<key>A92C10F6-BA5D-4758-B5E6-EC3DEF5F1D3F</key>
 		<dict>
 			<key>className</key>
@@ -1366,6 +2760,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A92C10F6-BA5D-4758-B5E6-EC3DEF5F1D3F</string>
 		</dict>
+		<key>AACBB025-7C01-483B-8255-18A7AB9E26FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AACBB025-7C01-483B-8255-18A7AB9E26FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499898.71956503</real>
+			<key>timeStoppedRecording</key>
+			<real>693499899.39673901</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>AACBB025-7C01-483B-8255-18A7AB9E26FD</string>
+		</dict>
 		<key>AACDE570-ECF8-4F6B-B76D-EE6F63A0C5E6</key>
 		<dict>
 			<key>className</key>
@@ -1399,6 +2827,74 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>AACDE570-ECF8-4F6B-B76D-EE6F63A0C5E6</string>
+		</dict>
+		<key>AB3506E7-7B86-47DC-AF7B-EE36B25ED233</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB3506E7-7B86-47DC-AF7B-EE36B25ED233.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478377.11027098</real>
+			<key>timeStoppedRecording</key>
+			<real>693478377.84940004</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>AB3506E7-7B86-47DC-AF7B-EE36B25ED233</string>
+		</dict>
+		<key>AB89A1C5-CCDD-4A66-BA80-9A29E2751299</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB89A1C5-CCDD-4A66-BA80-9A29E2751299.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693498986.01772404</real>
+			<key>timeStoppedRecording</key>
+			<real>693498987.94676006</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>AB89A1C5-CCDD-4A66-BA80-9A29E2751299</string>
 		</dict>
 		<key>ACB31308-E455-4571-9A70-4ACFD4D26361</key>
 		<dict>
@@ -1468,6 +2964,40 @@
 			<key>uniqueIdentifier</key>
 			<string>B0BF5032-86CF-46D1-9384-72543CE6ADC5</string>
 		</dict>
+		<key>B2758D93-ABB7-430D-94BD-DD5D52DA9FD8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2758D93-ABB7-430D-94BD-DD5D52DA9FD8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693498730.76518404</real>
+			<key>timeStoppedRecording</key>
+			<real>693498732.22060704</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>B2758D93-ABB7-430D-94BD-DD5D52DA9FD8</string>
+		</dict>
 		<key>B791BB23-9BEA-46AB-BC77-53BCB274679A</key>
 		<dict>
 			<key>className</key>
@@ -1501,6 +3031,142 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>B791BB23-9BEA-46AB-BC77-53BCB274679A</string>
+		</dict>
+		<key>BAEA5CD2-A7FB-4B00-A2D0-50B746AA9134</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BAEA5CD2-A7FB-4B00-A2D0-50B746AA9134.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693498675.17191601</real>
+			<key>timeStoppedRecording</key>
+			<real>693498678.26251304</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>BAEA5CD2-A7FB-4B00-A2D0-50B746AA9134</string>
+		</dict>
+		<key>BBD26075-1822-4C8D-89FA-FA61838E3918</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BBD26075-1822-4C8D-89FA-FA61838E3918.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499980.99823499</real>
+			<key>timeStoppedRecording</key>
+			<real>693499981.75562203</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>BBD26075-1822-4C8D-89FA-FA61838E3918</string>
+		</dict>
+		<key>BC965E65-B0D4-43CE-BA34-311895A16508</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC965E65-B0D4-43CE-BA34-311895A16508.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499950.66942</real>
+			<key>timeStoppedRecording</key>
+			<real>693499951.47796702</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>BC965E65-B0D4-43CE-BA34-311895A16508</string>
+		</dict>
+		<key>BD46BAB5-4236-48AE-902D-7F5B3D415797</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD46BAB5-4236-48AE-902D-7F5B3D415797.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499754.65315104</real>
+			<key>timeStoppedRecording</key>
+			<real>693499755.22941303</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>BD46BAB5-4236-48AE-902D-7F5B3D415797</string>
 		</dict>
 		<key>BF584F1C-E20E-4207-B60C-181DFF8126B7</key>
 		<dict>
@@ -1570,6 +3236,312 @@
 			<key>uniqueIdentifier</key>
 			<string>C3920B81-9F29-491E-8AA4-88C3EC014875</string>
 		</dict>
+		<key>C4669102-E665-46A2-9820-2A95B219C951</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4669102-E665-46A2-9820-2A95B219C951.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499892.52404201</real>
+			<key>timeStoppedRecording</key>
+			<real>693499893.19189894</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>C4669102-E665-46A2-9820-2A95B219C951</string>
+		</dict>
+		<key>CC6BB952-1831-4A01-917B-B36DE58033C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC6BB952-1831-4A01-917B-B36DE58033C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693479601.48803794</real>
+			<key>timeStoppedRecording</key>
+			<real>693479602.32240796</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>CC6BB952-1831-4A01-917B-B36DE58033C4</string>
+		</dict>
+		<key>D0246648-2374-458A-83B8-A64FE39A7EE6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0246648-2374-458A-83B8-A64FE39A7EE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693501244.50374103</real>
+			<key>timeStoppedRecording</key>
+			<real>693501246.42861903</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>D0246648-2374-458A-83B8-A64FE39A7EE6</string>
+		</dict>
+		<key>D10DC401-212C-4050-9978-6A305721D1D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D10DC401-212C-4050-9978-6A305721D1D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499828.84887898</real>
+			<key>timeStoppedRecording</key>
+			<real>693499829.45247698</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>D10DC401-212C-4050-9978-6A305721D1D7</string>
+		</dict>
+		<key>D155F200-F357-405B-A5D3-1728255A6E54</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D155F200-F357-405B-A5D3-1728255A6E54.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500392.77536595</real>
+			<key>timeStoppedRecording</key>
+			<real>693500393.41730595</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>D155F200-F357-405B-A5D3-1728255A6E54</string>
+		</dict>
+		<key>D1978F16-2954-4671-A815-1AA0C9BE6CD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1978F16-2954-4671-A815-1AA0C9BE6CD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500297.31630397</real>
+			<key>timeStoppedRecording</key>
+			<real>693500297.93523002</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>D1978F16-2954-4671-A815-1AA0C9BE6CD4</string>
+		</dict>
+		<key>D5BF0DEE-39BB-48D6-BB35-13CF7F43837D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5BF0DEE-39BB-48D6-BB35-13CF7F43837D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693498982.742378</real>
+			<key>timeStoppedRecording</key>
+			<real>693498984.80779696</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>D5BF0DEE-39BB-48D6-BB35-13CF7F43837D</string>
+		</dict>
+		<key>D71BE4F5-6591-4AAA-B0DC-9454B55D5369</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D71BE4F5-6591-4AAA-B0DC-9454B55D5369.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693478358.52276802</real>
+			<key>timeStoppedRecording</key>
+			<real>693478359.24867105</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>D71BE4F5-6591-4AAA-B0DC-9454B55D5369</string>
+		</dict>
+		<key>DC6B0C4A-3DD1-443A-B7CF-E37BB05F6453</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC6B0C4A-3DD1-443A-B7CF-E37BB05F6453.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499739.15497994</real>
+			<key>timeStoppedRecording</key>
+			<real>693499740.05578005</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>DC6B0C4A-3DD1-443A-B7CF-E37BB05F6453</string>
+		</dict>
 		<key>DF0FCC40-6280-4886-AEFB-275AB6A2A966</key>
 		<dict>
 			<key>className</key>
@@ -1604,6 +3576,244 @@
 			<key>uniqueIdentifier</key>
 			<string>DF0FCC40-6280-4886-AEFB-275AB6A2A966</string>
 		</dict>
+		<key>E20072CB-6ABB-4417-BE78-59C2BD4517A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E20072CB-6ABB-4417-BE78-59C2BD4517A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693479738.86301899</real>
+			<key>timeStoppedRecording</key>
+			<real>693479740.25543201</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>E20072CB-6ABB-4417-BE78-59C2BD4517A4</string>
+		</dict>
+		<key>E30C3A9F-5D2F-4742-8BD6-FB16BE8CA810</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E30C3A9F-5D2F-4742-8BD6-FB16BE8CA810.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499809.15261996</real>
+			<key>timeStoppedRecording</key>
+			<real>693499809.70510495</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>E30C3A9F-5D2F-4742-8BD6-FB16BE8CA810</string>
+		</dict>
+		<key>E55B06AE-0E17-491C-922F-E0473FA7C564</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E55B06AE-0E17-491C-922F-E0473FA7C564.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499820.96156001</real>
+			<key>timeStoppedRecording</key>
+			<real>693499821.577546</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>E55B06AE-0E17-491C-922F-E0473FA7C564</string>
+		</dict>
+		<key>EA9DDE8E-ADAB-4D50-BC39-403D01CA79A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EA9DDE8E-ADAB-4D50-BC39-403D01CA79A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500281.84916306</real>
+			<key>timeStoppedRecording</key>
+			<real>693500282.52100396</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>EA9DDE8E-ADAB-4D50-BC39-403D01CA79A0</string>
+		</dict>
+		<key>EB3B099A-538A-4B34-95D6-9EF1967B814E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB3B099A-538A-4B34-95D6-9EF1967B814E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693480135.99739504</real>
+			<key>timeStoppedRecording</key>
+			<real>693480137.37483895</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>EB3B099A-538A-4B34-95D6-9EF1967B814E</string>
+		</dict>
+		<key>EF4E4DDB-879C-4A26-B0F7-B1ABB3B60E9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF4E4DDB-879C-4A26-B0F7-B1ABB3B60E9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693499785.10845304</real>
+			<key>timeStoppedRecording</key>
+			<real>693499785.69834495</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>EF4E4DDB-879C-4A26-B0F7-B1ABB3B60E9B</string>
+		</dict>
+		<key>F360B609-9226-472D-9FF3-3189347B0BEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F360B609-9226-472D-9FF3-3189347B0BEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500305.33141303</real>
+			<key>timeStoppedRecording</key>
+			<real>693500306.01872504</real>
+			<key>title</key>
+			<string>Build for Previews DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>F360B609-9226-472D-9FF3-3189347B0BEA</string>
+		</dict>
 		<key>F403A873-FFC0-451F-9A64-9EFD08C2E744</key>
 		<dict>
 			<key>className</key>
@@ -1637,6 +3847,40 @@
 			<string>Build for Previews DesignWeather</string>
 			<key>uniqueIdentifier</key>
 			<string>F403A873-FFC0-451F-9A64-9EFD08C2E744</string>
+		</dict>
+		<key>F42F8A01-9894-4628-9C24-C939860D85B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F42F8A01-9894-4628-9C24-C939860D85B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DesignWeather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DesignWeather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DesignWeather</string>
+			<key>timeStartedRecording</key>
+			<real>693500941.79105306</real>
+			<key>timeStoppedRecording</key>
+			<real>693500943.46415496</real>
+			<key>title</key>
+			<string>Build DesignWeather</string>
+			<key>uniqueIdentifier</key>
+			<string>F42F8A01-9894-4628-9C24-C939860D85B9</string>
 		</dict>
 		<key>F91F8AFD-5708-41D8-9E16-42250161C2F1</key>
 		<dict>

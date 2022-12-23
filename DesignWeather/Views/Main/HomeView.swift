@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Combine
 import BottomSheet
 
 enum BottomSheetPosition: CGFloat, CaseIterable {
@@ -18,6 +19,10 @@ struct HomeView: View {
     @State var bottomSheetTranslation: CGFloat = BottomSheetPosition.middle.rawValue
     @State var hasDragged: Bool = false
     
+    
+    
+    @ObservedObject var viewModel: HomeViewModel = HomeViewModel()
+    private var cancellables: Set<AnyCancellable> = []
     
     var bottomSheetTranslationProrated: CGFloat {
         let prorated = (bottomSheetTranslation - BottomSheetPosition.middle.rawValue) / (BottomSheetPosition.top.rawValue - BottomSheetPosition.middle.rawValue)
@@ -47,13 +52,14 @@ struct HomeView: View {
                         .offset(y: -bottomSheetTranslationProrated * imageOffset)
                     
                     VStack(spacing: -10 * (1 - bottomSheetTranslationProrated)) {
-                        Text("Montreal")
+                        Text(viewModel.weather?.city.name ?? "")
                             .font(.largeTitle)
                         
                         VStack {
                             Text(attributedString)
+                                .multilineTextAlignment(.center)
                             
-                            Text("H:24°   L:18°")
+                            Text("H:\(Int(viewModel.weather?.list.first?.main.temp_max ?? 0))°   L:\(Int(viewModel.weather?.list.first?.main.temp_min ?? 0))°")
                                 .font(.title3.weight(.semibold))
                                 .opacity(1 - bottomSheetTranslationProrated)
                         }
@@ -65,8 +71,7 @@ struct HomeView: View {
                     
                     // MARK: Bottom sheet
                     BottomSheetView(position: $bottomSheetPosition) {
-                        #warning("Delete")
-//                        Text(bottomSheetTranslationProrated.formatted())
+                        
                     } content: {
                         ForecastView(bottomSheetTranslationProrated: bottomSheetTranslationProrated)
                     }
@@ -91,9 +96,14 @@ struct HomeView: View {
     }
     
     var attributedString: AttributedString {
-        var string = AttributedString("19°" + (hasDragged ? " | " : "\n ") + "Mostly Clear")
+        let temp = Int(viewModel.weather?.list.first?.main.temp ?? 0)
+        let weatherMain = viewModel.weather?.list.first?.weather.first?.main ?? ""
+        let weatherDesc = viewModel.weather?.list.first?.weather.first?.description ?? ""
+        let weatherString = "\(weatherMain) | \(weatherDesc)"
         
-        if let temp = string.range(of: "19°") {
+        var string = AttributedString("\(temp)°" + (hasDragged ? " | " : "\n ") + weatherString)
+        
+        if let temp = string.range(of: "\(temp)°") {
             string[temp].font = .system(size: (96 - (bottomSheetTranslationProrated * (96 - 20))), weight: hasDragged ? .semibold : .thin)
             string[temp].foregroundColor = hasDragged ? .secondary : .primary
         }
@@ -103,7 +113,7 @@ struct HomeView: View {
             string[pipe].foregroundColor = .secondary.opacity(bottomSheetTranslationProrated)
         }
         
-        if let weather = string.range(of: "Mostly Clear") {
+        if let weather = string.range(of: weatherString) {
             string[weather].font = .title3.weight(.semibold)
             string[weather].foregroundColor = .secondary
         }

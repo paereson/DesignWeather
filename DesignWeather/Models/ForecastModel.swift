@@ -12,7 +12,7 @@ enum ForecastPeriod {
     case daily
 }
 
-enum Weather: String {
+enum WeatherTest: String {
     case clear = "Clear"
     case cloudy = "Cloudy"
     case rainy = "Mid Rain"
@@ -25,7 +25,7 @@ enum Weather: String {
 struct Forecast: Identifiable {
     var id = UUID()
     var date: Date
-    var weather: Weather
+    var weather: WeatherTest
     var probability: Int
     var temperature: Int
     var high: Int

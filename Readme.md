@@ -4,8 +4,8 @@
 
 
 ## TODO / DONE:
-- Layout
-- REST API by Alamofire
+- Layout ✅
+- REST API by Alamofire ✅
 - Animations by Lottie
 - Languages by SwiftGen
 - Unit tests

@@ -25,7 +25,7 @@ struct NavigationBar: View {
                         .foregroundColor(.secondary)
                         
                         // MARK: Back button label
-                        Text("Back")
+                        Text("Home")
                             .font(.title)
                             .foregroundColor(.primary)
                     }
